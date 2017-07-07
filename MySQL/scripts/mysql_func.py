@@ -1,6 +1,6 @@
 #encoding=UTF8
 '''
-@author: qiueer
+@author: wangjunji
 2016-01-19
 '''
 
